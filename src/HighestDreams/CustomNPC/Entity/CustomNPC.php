@@ -1,8 +1,8 @@
 <?php
 declare(strict_types=1);
-#=========================================#
-# Plugin Custom NPC Made By HighestDreams #
-#=========================================#
+#==================================================================#
+# Plugin Custom NPC Made By HighestDreams (UPGRADE BY AOKOASAMI199 #
+#==================================================================#
 namespace HighestDreams\CustomNPC\Entity;
 use HighestDreams\CustomNPC\NPC; 
 use pocketmine\player\Player;
